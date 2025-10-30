@@ -1,25 +1,44 @@
-# Moraj Residency Website
-
-[![PHP](https://img.shields.io/badge/PHP-Primary%20Language-blue)](https://www.php.net/)
+# Moraj Residency (HSMS)
 
 ## Description
 
-No description provided for this repository.
+Developed a Housing Society Management System (HSMS) for our client Moraj Residency that streamlines administrative tasks, enhances resident experiences, and facilitates efficient communication among residents, administrators, and service providers. It promotes informed decision-making, community engagement, and improved quality of life.
+
+---
 
 ## Key Features and Highlights
-- Utilizes PHP as the primary language
-- No specific topics or tags assigned
-- Clean and professional README structure
+- Resident Management: Manage resident profiles, flats, and maintenance records
+- Communication Portal: Streamlined announcements and messaging system
+- Event Scheduling: Track community meetings and events
+- Maintenance Tracking: Manage payment records and dues
+- Reports & Insights: Admin dashboard for analytics and decision-making
+
+---
+## Technologies Used
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=php,mysql" />
+    <img src="https://skillicons.dev/icons?i=figma" />
+  </a>
+</p>
+
+---
+## Check Website
+🔗 [Live Demo](https://morajresidency.co.in/)
+
+---
 
 ## Installation
 
 1. Clone the repository: 
    ```bash
-   git clone https://github.com/your-username/Moraj-Residency-Website.git
+   git clone https://github.com/PalaktheCodEagle/Moraj-Residency-HSMS.git
    ```
 2. Change directory to project folder:
    ```bash
-   cd Moraj-Residency-Website
+   cd Moraj-Residency-HSMS
    ```
 3. Start the development server:
    ```bash
@@ -34,20 +53,3 @@ echo "Welcome to Moraj Residency Website!";
 ?>
 ```
 
-## Dependencies
-
-No dependencies specified for this project.
-
-## Contributing
-
-Contributions are welcome! Please follow these steps:
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature`)
-3. Make your changes
-4. Commit your changes (`git commit -am 'Add new feature'`)
-5. Push to the branch (`git push origin feature`)
-6. Create a pull request
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
