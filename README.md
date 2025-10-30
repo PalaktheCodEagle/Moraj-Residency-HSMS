@@ -30,26 +30,10 @@ Developed a Housing Society Management System (HSMS) for our client Moraj Reside
 
 ---
 
-## Installation
+## Result
 
-1. Clone the repository: 
-   ```bash
-   git clone https://github.com/PalaktheCodEagle/Moraj-Residency-HSMS.git
-   ```
-2. Change directory to project folder:
-   ```bash
-   cd Moraj-Residency-HSMS
-   ```
-3. Start the development server:
-   ```bash
-   php -S localhost:8000
-   ```
-
-## Usage Examples
-
-```php
-<?php
-echo "Welcome to Moraj Residency Website!";
-?>
-```
+- Enhanced community engagement
+- Improved workflow efficiency for administrators
+- Better communication between residents and service providers
+- Promoted informed decision-making and quality of life
 
